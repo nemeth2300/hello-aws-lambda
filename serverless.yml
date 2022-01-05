@@ -1,0 +1,8 @@
+org: nemeth2300
+app: hello-aws-lambda
+name: aws-lambda-starter
+component: aws-lambda
+
+inputs:
+  src: ./src
+  handler: handler.handler
